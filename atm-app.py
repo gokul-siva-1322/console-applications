@@ -8,13 +8,13 @@ max_with_amount=25000 #One day Max Withdraw Amount
 atm_amount={100:1,200:1,500:1,2000:1} #100 200 500 2000
 
 users=[
-{"username":"g","password":"1234","Amount":125000,"passlimit":0},
+{"username":"GOKUL","password":"1234","Amount":125000,"passlimit":0},
 {"username":"NATH","password":"1234","Amount":134000,"passlimit":0},
 {"username":"SABA","password":"1234","Amount":125000,"passlimit":0}
 ]
 
 users_bank=[
-{"username":"g","password":"1234","Amount":125000,"Bank":"SBI","dailywithdrawlimit":0,"dailyamountlimit":0,"mini":[]},
+{"username":"GOKUL","password":"1234","Amount":125000,"Bank":"SBI","dailywithdrawlimit":0,"dailyamountlimit":0,"mini":[]},
 {"username":"NATH","password":"1234","Amount":134000,"Bank":"SBI","dailywithdrawlimit":0,"dailyamountlimit":0,"mini":[]},
 {"username":"SABA","password":"1234","Amount":125000,"Bank":"AXB","dailywithdrawlimit":0,"dailyamountlimit":0,"mini":[]}
 ]
